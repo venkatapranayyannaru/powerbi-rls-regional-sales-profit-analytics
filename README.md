@@ -1,7 +1,19 @@
 # RLS-Enabled Regional Sales & Profit Analytics | Power BI
 
 An interactive Power BI dashboard for a retail organisation selling technology and office supplies across regions in India. It tracks sales, profit, customer behaviour and shipping performance, and uses Row-Level Security so each Regional Manager sees only their own region.
+## Dashboard Preview
 
+### Sales Overview
+![Sales Overview](1-sales-overview.png)
+
+### Customer Insights
+![Customer Insights](2-customer-insights.png)
+
+### Product & Discount Impact
+![Product and Discount Impact](3-product-discount-impact.png)
+
+### Region & Manager View
+![Region and Manager View](4-region-manager-view.png)
 ## Tools Used
 - Power BI Desktop (Power Query, DAX, data modelling)
 - Excel (Superstore retail dataset)
